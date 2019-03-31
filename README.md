@@ -1,5 +1,5 @@
 # GrowCuts
-example of using grow cuts to find the boundary of an object
+C++/CUDA implementation of GrowCuts to find the boundary of an object
 
 # Reference
 V. Vezhnevets, V. Konouchine. "Grow-Cut" - Interactive Multi-Label N-D Image Segmentation".
